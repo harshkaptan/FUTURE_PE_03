@@ -1,4 +1,4 @@
-ustom Chatbot Persona Creator
+Custom Chatbot Persona Creator
 
 Prompt Engineering Task 3 – Future Interns
 
